@@ -1,0 +1,10 @@
+core config:
+  dbprefix: wp_
+
+core download:
+  version: 5.3
+
+core install:
+  title: WordPress Boilerplate
+  admin_email: admin@gootek.pl
+  admin_user: admin
